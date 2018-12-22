@@ -13,4 +13,5 @@ script: mvn clean package
 
 
 Reference
-* [Building a Java project](https://docs.travis-ci.com/user/languages/java/)
+* [Travis CI - Building a Java project](https://docs.travis-ci.com/user/languages/java/)
+* [Baeldung - Create a Build Pipeline with Travis CI](https://www.baeldung.com/travis-ci-build-pipeline)
